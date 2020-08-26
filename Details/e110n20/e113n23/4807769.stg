@@ -1,0 +1,23 @@
+# platforms_e110n20_e113n23_4807769
+# do not edit below this line
+# Last Written Mon Feb 17 18:12:13 2020
+#
+OBJECT_STATIC e110n20_e113n23_4807769platforms0700.ac 113.39679 23.38403 0.00 0
+OBJECT_STATIC e110n20_e113n23_4807769platforms0901.ac 113.43593 23.40209 0.00 0
+OBJECT_STATIC e110n20_e113n23_4807769platforms1002.ac 113.45550 23.42015 0.00 0
+OBJECT_STATIC e110n20_e113n23_4807769platforms1204.ac 113.49464 23.45626 0.00 0
+# END platforms_e110n20_e113n23_4807769
+# piers_e110n20_e113n23_4807769
+# do not edit below this line
+# Last Written Mon Feb 17 18:12:13 2020
+#
+OBJECT_STATIC e110n20_e113n23_4807769piers0805.ac 113.41636 23.47432 0.00 0
+OBJECT_STATIC e110n20_e113n23_4807769piers0806.ac 113.41636 23.49238 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 113.41245 23.47556 55.08 120.963
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 113.41211 23.47570 55.08 217.402
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 113.41211 23.47570 55.08 217.402
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 113.41211 23.47606 55.08 221.013
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 113.41258 23.47599 55.08 307.417
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 113.41245 23.47556 55.08 120.963
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 113.42037 23.48522 56.74 309.067
+# END piers_e110n20_e113n23_4807769

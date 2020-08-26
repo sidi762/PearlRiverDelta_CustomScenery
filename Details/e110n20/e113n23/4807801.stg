@@ -1,0 +1,18 @@
+# pylonsDetails_e110n20_e113n24_4807809
+# do not edit below this line
+# Last Written Mon Feb 17 11:47:56 2020
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.26008 23.99927 43.86 244.659
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.26034 23.99976 34.96 244.659
+# END pylonsDetails_e110n20_e113n24_4807809
+# pylonsDetails_e110n20_e113n23_4807801
+# do not edit below this line
+# Last Written Mon Feb 17 18:56:54 2020
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.25906 23.99718 44.14 247.069
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.25929 23.99768 35.03 247.069
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.25952 23.99818 39.90 246.495
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.25976 23.99867 43.30 244.401
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.25991 23.99894 44.81 242.882
+OBJECT_STATIC e110n20_e113n23_4807801dcables00007.ac 113.25949 23.99806 42.36 90
+# END pylonsDetails_e110n20_e113n23_4807801

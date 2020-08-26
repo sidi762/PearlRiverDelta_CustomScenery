@@ -1,0 +1,58 @@
+# pylonsDetails_e110n20_e113n22_4807720
+# do not edit below this line
+# Last Written Mon Feb 17 11:15:29 2020
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24462 22.62917 -1.89 226.318
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24502 22.62956 -1.66 226.318
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24543 22.62995 -1.41 226.318
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24583 22.63035 -1.18 225.363
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24625 22.63072 -0.13 223.852
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24667 22.63110 0.72 222.331
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24711 22.63145 0.30 221.366
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24755 22.63181 -0.10 221.229
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24799 22.63217 -0.57 221.009
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24843 22.63252 -0.65 221.014
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24887 22.63288 0.28 221.129
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24912 22.63308 0.88 221.157
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24083 22.62517 -2.06 229.38
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24121 22.62558 -2.00 229.315
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24159 22.62599 -2.43 229.217
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24197 22.62640 -1.90 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24235 22.62681 -0.76 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24273 22.62722 0.55 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24311 22.62763 1.47 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24350 22.62804 1.13 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24388 22.62845 -0.61 229.184
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24426 22.62886 -1.92 228.988
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24464 22.62927 -1.81 228.598
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24503 22.62968 -1.44 228.403
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24542 22.63008 -0.97 228.898
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24580 22.63049 -1.67 229.459
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24618 22.63091 -1.19 229.524
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24656 22.63132 -0.40 229.524
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24694 22.63173 -0.60 229.524
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24705 22.63186 -0.30 229.524
+OBJECT_STATIC e110n20_e113n22_4807720dcables00085.ac 113.24403 22.62809 -0.42 90
+# END pylonsDetails_e110n20_e113n22_4807720
+# piers_e110n20_e113n22_4807720
+# do not edit below this line
+# Last Written Mon Feb 17 11:15:29 2020
+#
+OBJECT_STATIC e110n20_e113n22_4807720piers0600.ac 113.12651 22.63403 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.12732 22.62983 -0.54 55.1409
+# END piers_e110n20_e113n22_4807720
+# pylonsDetails_e110n20_e113n22_4807721
+# do not edit below this line
+# Last Written Mon Feb 17 14:18:04 2020
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24941 22.63332 2.18 220.659
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24985 22.63367 3.10 220.907
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24731 22.63213 0.33 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24769 22.63254 0.68 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24807 22.63295 0.72 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24845 22.63336 0.76 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24883 22.63377 0.47 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24922 22.63418 0.07 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24960 22.63459 1.01 229.167
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 113.24998 22.63500 1.92 229.3
+# END pylonsDetails_e110n20_e113n22_4807721

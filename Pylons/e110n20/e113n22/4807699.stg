@@ -1,0 +1,56 @@
+# pylons_e110n20_e113n22_4807699
+# do not edit below this line
+# Last Written Mon Feb 17 18:15:38 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93027 22.37473 35.40 344.402
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93051 22.37467 30.51 344.404
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93395 22.37378 97.88 343.905
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93751 22.37279 123.81 344.015
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94177 22.37170 151.18 344.013
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94338 22.37125 119.73 356.853
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94668 22.37181 42.20 369.585
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94900 22.37215 60.08 374.721
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.95131 22.37295 59.59 387.712
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.95304 22.37408 68.07 395.762
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93185 22.37487 50.20 346.748
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93537 22.37409 125.61 345.755
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93804 22.37342 135.96 347.181
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94154 22.37282 148.81 353.951
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94333 22.37277 132.41 362.971
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.94883 22.37346 98.41 364.224
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.95085 22.37348 80.33 375.154
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.95264 22.37442 88.41 394.624
+OBJECT_BUILDING_MESH_DETAILED e110n20_e113n22_4807699cables00070.ac 113.93955 22.37306 90.85 90
+OBJECT_BUILDING_MESH_DETAILED e110n20_e113n22_4807699cables00077.ac 113.95136 22.37425 65.11 90
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93043 22.29431 -66.89 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.93187 22.29480 5.96 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92723 22.36785 -46.66 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92809 22.36875 9.48 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92757 22.36827 -56.84 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92845 22.36901 7.43 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92667 22.36796 -49.03 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92881 22.36879 8.66 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92760 22.36893 11.83 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92705 22.36840 -58.94 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 113.92807 22.36796 -46.79 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92846 22.36849 12.43 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 113.92771 22.36758 -45.02 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.92797 22.36916 10.55 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93093 22.29446 -66.95 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93143 22.29462 -67.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93110 22.29400 -67.12 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.93226 22.29495 5.93 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92963 22.29360 -67.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93160 22.29415 -67.18 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 113.93200 22.29445 5.83 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92946 22.29405 -66.83 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.93061 22.29385 -67.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 113.92980 22.29315 -67.16 0
+# END pylons_e110n20_e113n22_4807699
+# pylons_e110n20_e113n22_4807707
+# do not edit below this line
+# Last Written Mon Feb 17 20:00:41 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 113.93027 22.37473 35.40 335.082
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 113.93185 22.37487 50.20 323.639
+# END pylons_e110n20_e113n22_4807707

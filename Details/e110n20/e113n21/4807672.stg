@@ -1,0 +1,8 @@
+# piers_e110n20_e113n21_4807672
+# do not edit below this line
+# Last Written Mon Feb 17 10:00:46 2020
+#
+OBJECT_STATIC e110n20_e113n21_4807672piers0100.ac 113.02904 21.88403 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.03629 21.88258 -0.00 147.634
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 113.03579 21.88294 -0.00 291.146
+# END piers_e110n20_e113n21_4807672

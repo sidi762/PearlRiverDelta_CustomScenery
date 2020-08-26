@@ -1,0 +1,22 @@
+# piers_e110n20_e113n22_4807696
+# do not edit below this line
+# Last Written Mon Feb 17 10:24:20 2020
+#
+OBJECT_STATIC e110n20_e113n22_4807696piers0305.ac 113.06794 22.34934 0.00 0
+OBJECT_STATIC e110n20_e113n22_4807696piers0306.ac 113.06794 22.36740 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06433 22.36593 -0.01 7.61524
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06472 22.36606 -0.01 190
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06364 22.36639 -0.01 -79.9837
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06364 22.36639 -0.01 -79.9837
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06359 22.36666 -0.01 99.0224
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06364 22.36639 -0.01 -79.9837
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06359 22.36666 -0.01 99.0224
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06433 22.36593 -0.01 7.61524
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06472 22.36606 -0.01 190
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06433 22.36593 -0.01 7.61524
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.06472 22.36606 -0.01 190
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.07629 22.36206 -0.27 104.905
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 113.07598 22.36478 -0.27 -157.274
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.07626 22.35515 -1.46 184.255
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.07660 22.35602 -1.46 -82.5994
+# END piers_e110n20_e113n22_4807696

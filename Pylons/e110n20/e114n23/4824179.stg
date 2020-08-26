@@ -1,0 +1,11 @@
+# pylons_e110n20_e114n23_4824179
+# do not edit below this line
+# Last Written Mon Feb 17 16:27:07 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 114.78949 23.83395 76.78 380.311
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 114.79576 23.83609 71.35 380.32
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 114.79807 23.83688 86.34 358.853
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 114.80047 23.83596 94.83 337.244
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 114.80519 23.83413 62.67 337.111
+OBJECT_BUILDING_MESH_DETAILED e110n20_e114n23_4824179cables00019.ac 114.79734 23.83542 78.75 90
+# END pylons_e110n20_e114n23_4824179

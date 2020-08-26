@@ -1,0 +1,13 @@
+# piers_e110n20_e113n22_4807736
+# do not edit below this line
+# Last Written Mon Feb 17 12:18:44 2020
+#
+OBJECT_STATIC e110n20_e113n22_4807736piers0205.ac 113.04875 22.97433 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.05366 22.98022 -0.39 -150.886
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 113.05222 22.98025 -0.39 -58.8793
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 113.05222 22.98025 -0.39 -58.8793
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 113.05059 22.98098 -0.39 185.686
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.05140 22.98120 -0.39 110.086
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.05252 22.98104 -0.39 107.422
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 113.05366 22.98022 -0.39 -150.886
+# END piers_e110n20_e113n22_4807736
